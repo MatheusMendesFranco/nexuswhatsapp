@@ -1,0 +1,6 @@
+# Local development only. Copy to .dev.vars and fill in your own values.
+VERIFY_TOKEN="change-me"
+META_ACCESS_TOKEN="change-me"
+META_PHONE_NUMBER_ID="change-me"
+META_APP_SECRET="change-me"
+OPENAI_API_KEY="change-me"
