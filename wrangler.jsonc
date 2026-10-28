@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "nexus-whatsapp-agent",
+  "main": "src/index.js",
+  "compatibility_date": "2026-10-28",
+  "workers_dev": true,
+  "observability": {
+    "enabled": true
+  },
+  "vars": {
+    "META_GRAPH_VERSION": "v26.0",
+    "OPENAI_MODEL": "gpt-6-luna"
+  }
+}
